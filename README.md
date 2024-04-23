@@ -29,13 +29,13 @@ All libraries are located in requirements.txt.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/na3th9n/django-react-note-creator.git
+   git clone https://github.com/na3th9n/notepad-note-creator.git
    ```
 2. Install libraries
    ```sh
    pip install -r requirements.txt
    ```
-3. Run VolumeControl.py
+3. Run both the frontend and backend directories
 
 ## Usage
 
