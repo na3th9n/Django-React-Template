@@ -35,11 +35,28 @@ All libraries are located in requirements.txt.
    ```sh
    pip install -r requirements.txt
    ```
-3. Run both the frontend and backend directories
+3. Run backend, use terminal and access the backend directory
+   ```sh
+   python manage.py runserver
+   ```
+4. Run frontend, use terminal and access the frontend directory
+   ```sh
+   npm run dev
+   ```
 
 ## Usage
 
-N/A
+The different paths are:
+
+"/" - Homepage (can not access without logging in)
+"/login" (if you do not have an account created, go to /register)
+"/register" (register account)
+
+## Future Tasks
+
+- add buttons for registration and logging out
+- update UI
+- incorporate blwackjack.py (TOP SECRET)
 
 ## Contact
 
